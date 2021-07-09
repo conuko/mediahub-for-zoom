@@ -18,6 +18,7 @@ module.exports = {
     FAST_DEV: true,
   },
   plugins: [
+    `gatsby-plugin-styled-components`,
     {
       resolve: `@lekoarts/gatsby-theme-cara`,
       // See the theme's README for all available options
