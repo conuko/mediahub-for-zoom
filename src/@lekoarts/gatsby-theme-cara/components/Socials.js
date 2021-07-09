@@ -11,6 +11,7 @@ const ContainerDownloads = styled.div`
 
 const ImageDownloads = styled.img`
 	width: 200px;
+	height: 60px;
 	margin: 10px;
 
 `
